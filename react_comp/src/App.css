@@ -1,0 +1,15 @@
+.pic{
+border-radius: 50%;  
+}
+
+.main{
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  border: 1px solid rgb(222, 224, 73);
+}
+
+h2{
+color: gray;  
+text-align: center;
+}
